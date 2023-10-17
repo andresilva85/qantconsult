@@ -1,2 +1,1 @@
-# qantconsult
-Technical test
+
