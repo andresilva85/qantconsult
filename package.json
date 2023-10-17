@@ -1,0 +1,23 @@
+{
+  "name": "qantconsult",
+  "version": "1.0.0",
+  "description": "Technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresilva85/qantconsult.git"
+  },
+  "keywords": [],
+  "author": "Andre Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresilva85/qantconsult/issues"
+  },
+  "homepage": "https://github.com/andresilva85/qantconsult#readme",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}

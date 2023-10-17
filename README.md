@@ -1,2 +1,2 @@
 # qantconsult
-Technical tes
+Technical test
